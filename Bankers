@@ -2,7 +2,7 @@
 // sequences using banker's algorithm
 import java.util.*;
 
-public class GFG
+public class Bankers
 {
 
 	// total number of process
